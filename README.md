@@ -9,6 +9,9 @@ The application consists of two pages:
 -/article (http://localhost:9000/article)
 
 ### Documentation
+
+Technology stack: Java-1.11.0, Spring-Boot 2.5.6, in-memory database H2 1.0, Tomcat 9.0.54.
+
 In order to launch the application on Ubuntu 20.04 operating system do the following:
 
 1.Open terminal and do command "sudo apt update"
@@ -19,7 +22,7 @@ In order to launch the application on Ubuntu 20.04 operating system do the follo
 
 4.Check the installation "mvn -version"
 
-5.Copy this reposotory form github
+5.Copy this repository form github
 
 6.Goto to the directory with the project and run "mvn clean install"
 
